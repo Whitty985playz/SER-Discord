@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/QdtdkZYP/SERDiscord.png)
+[<img width="200" height="200" alt="SER-Discord-Logo" src="https://i.postimg.cc/QdtdkZYP/SERDiscord.png" />](https://github.com/Whitty985playz/SER-Discord)
 # 📜 | SER Discord
 
 SER Discord is a complete SCPSL + Discord script package that includes things such as a:
