@@ -4,10 +4,10 @@
 SER Discord is a complete SCP:SL + Discord script package that includes things such as a:
 
 - Server List
-- Basic Loging System
-- Report Loging System -- WORK IN PROGRESS
-- Event Loging System(Command Ran) -- WORK IN PROGRESS
-- Optional Advanced Loging System -- WORK IN PROGRESS
+- Basic Logging System
+- Report Logging System -- WORK IN PROGRESS
+- Event Logging System(Command Ran) -- WORK IN PROGRESS
+- Optional Logging Loging System -- WORK IN PROGRESS
 
 
 ## 🛠️ | How To Install
