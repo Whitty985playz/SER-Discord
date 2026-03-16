@@ -1,4 +1,4 @@
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/JtC8H4J2/Rounded-Rectangle.png' border='0' alt='Rounded-Rectangle' height='25'></a>
+<a href='https://discord.gg/27A97rxR/' target='_blank'><img src='https://i.postimg.cc/JtC8H4J2/Rounded-Rectangle.png' border='0' alt='Rounded-Rectangle' height='25'></a>
 # 📜 | SER Discord
 
 SER Discord is a complete SCPSL + Discord script package that includes things such as a:
