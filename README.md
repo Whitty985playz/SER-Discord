@@ -9,6 +9,22 @@ SER Discord is a complete SCPSL + Discord script package that includes things su
 - Event Loging System(Command Ran)
 
 
+## 🛠️ | How To Install
+### 🖥️ | Windows
+1. Download the [**Latest Release**](https://github.com/Whitty985playz/SER-Discord/releases) of SER Discord.
+2. Move the SER Discord folder to `C:\Users\[USER]\AppData\Roaming\SCP Secret Laboratory\LabAPI\configs\Scripted Events Reloaded\` and extract the files in the folder.
+
+![](https://i.postimg.cc/3JgY5WNs/image-2026-03-16-202831624.png)
+
+3. You are done... Just follow the setup guide.
+
+### 🖥️ | Linux
+
+1. Download the [**Latest Release**](https://github.com/Whitty985playz/SER-Discord/releases) of SER Discord.
+2. Move the SER Discord folder to `.config/SCP Secret Laboratory/LabAPI/configs/Scripted Events Reloaded/` and extract the files in the folder.
+
+3. You are done... Just follow the setup guide.
+
 ## ⚙️ | How To Set Up -- Required Settings
 
 **ALL** of these steps require the ***`SERDiscordConfig.txt`*** file.
