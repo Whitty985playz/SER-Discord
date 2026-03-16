@@ -46,4 +46,4 @@ SER Discord is a complete SCPSL + Discord script package that includes things su
 
 ## ⚙️ | Customization
 
-> SOON
+> GUIDE SOON
