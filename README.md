@@ -1,12 +1,13 @@
 <a href='https://discord.com/invite/27A97rxR' target='_blank'><img src='https://i.postimg.cc/JtC8H4J2/Rounded-Rectangle.png' border='0' alt='Rounded-Rectangle' height='25'></a>
 # 📜 | SER Discord
 
-SER Discord is a complete SCPSL + Discord script package that includes things such as a:
+SER Discord is a complete SCP:SL + Discord script package that includes things such as a:
 
 - Server List
 - Basic Loging System
-- Report Loging System
-- Event Loging System(Command Ran)
+- Report Loging System -- WORK IN PROGRESS
+- Event Loging System(Command Ran) -- WORK IN PROGRESS
+- Optional Advanced Loging System -- WORK IN PROGRESS
 
 
 ## 🛠️ | How To Install
