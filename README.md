@@ -13,7 +13,7 @@ SER Discord is a complete SCPSL + Discord script package that includes things su
 
 **ALL** of these steps require the ***`SERDiscordConfig.txt`*** file.
 
-![](https://i.postimg.cc/KjnjFjpL/image-2026-02-22-200833959.png)
+![](https://i.postimg.cc/4xmGN8F5/image-2026-03-16-195857516.png)
 
 ### Server logs
 1. Set your server name.
